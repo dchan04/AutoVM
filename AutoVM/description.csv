@@ -1,0 +1,5 @@
+Platform,Instance/VM Name,VM Name,VM Size,Storage (Y or N),Storage Type,Storage Size,ssh Key file name
+Azure,ubuntu-test,Ubuntu Server 16.04 LTS,Standard_D2s_v3,N/A,NULL,0,N/A
+Azure,debian-test,"Debian 10 ""Buster""",Standard_DS1_v2,N/A,NULL,0,N/A
+AWS,linux-awsTest1,ami-0fa94ecf2fef3420b,t2-micro,Y,EBS,8,cis4010-dchan04.pem
+AWS,ubuntu-awsTest1,ami-0d0eaed20348a3389,t2-micro,Y,EBS,8,cis4010-dchan04.pem

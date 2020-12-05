@@ -1,0 +1,9 @@
+Platform,Instance Name,Docker Image Name,Registry,Background (Y or N)
+Azure,debian-test,julia,library,Y
+Azure,debian-test,swift,library,Y
+Azure,ubuntu-test,julia,library,N
+Azure,ubuntu-test,swift,library,Y
+AWS,linux-awsTest1,golang ,library,Y
+AWS,linux-awsTest1,gcc,library,N
+AWS,ubuntu-awsTest,golang ,library,Y
+AWS,ubuntu-awsTest,gcc,library,N
